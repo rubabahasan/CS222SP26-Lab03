@@ -12,7 +12,7 @@ There is only 1 JUnit test for this lab, for `End.java`. For `Beginning` and `Mi
 
 ## Instructions
 
-1. Clone this lab from Github. Use this link: <[git@github.com:rubabahasan/CS222SP26-Lab03.git](https://github.com/rubabahasan/CS222SP26-Lab03.git)> Refer to Lab 1 if you need a refresher for how to do so. REMEMBER: when importing, name your folder `firstnameLI-CS222-Lab-03`
+1. Clone this lab from Github. Use this link: <[https://github.com/rubabahasan/CS222SP26-Lab03.git](https://github.com/rubabahasan/CS222SP26-Lab03.git)> Refer to Lab 1 if you need a refresher for how to do so. REMEMBER: when importing, name your folder `firstnameLI-CS222-Lab-03`
 
 ### Beginning.java
 
